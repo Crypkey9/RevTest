@@ -112,8 +112,8 @@ namespace Atest.Controllers
                     string extention = Path.GetExtension(emp.Ifile.FileName);
                     fileName = fileName + DateTime.Now.ToString("yymmssff") + extention;
                     emp.UAvatar = fileName;
-                    emp.Ifile.SaveAs(Path.Combine(Server.MapPath("~/AppFile/Images"), fileName));
-                    db.DBtestUsers.Add(emp);*/
+                    emp.Ifile.SaveAs(Path.Combine(Server.MapPath("~/AppFile/Images"), fileName));*/
+                    db.DBtestUsers.Add(emp);
                     db.SaveChanges();
                     return Json(new { success = true, message = "Saved Successfully" }, JsonRequestBehavior.AllowGet);
 

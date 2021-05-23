@@ -53,6 +53,7 @@ C:\Users\Max\source\repos\Atest\Atest\bin\System.Web.WebPages.Razor.xml
 C:\Users\Max\source\repos\Atest\Atest\bin\Newtonsoft.Json.xml
 C:\Users\Max\source\repos\Atest\Atest\bin\Antlr3.Runtime.pdb
 C:\Users\Max\source\repos\Atest\Atest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Max\source\repos\Atest\Atest\obj\Debug\Atest.csprojAssemblyReference.cache
 C:\Users\Max\source\repos\Atest\Atest\obj\Debug\Atest.csproj.CoreCompileInputs.cache
 C:\Users\Max\source\repos\Atest\Atest\obj\Debug\Atest.csproj.CopyComplete
 C:\Users\Max\source\repos\Atest\Atest\obj\Debug\Atest.dll
